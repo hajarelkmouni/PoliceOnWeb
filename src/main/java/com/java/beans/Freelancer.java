@@ -1,6 +1,6 @@
 package com.java.beans;
 
-public class Freelancer 
+public class Hajar 
 {
 	private String CIN;
 	private String nom;
