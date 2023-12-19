@@ -37,7 +37,7 @@ public class DAOAdminImpl implements DAOAdmin{
 
 	@Override
 	public int getNumUsers() {
-			return getNum("SELECT count(*) FROM user");
+			return getNum("SELECT nom FROM user");
 		}
 
 	@Override
