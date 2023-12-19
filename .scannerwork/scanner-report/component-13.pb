@@ -1,0 +1,1 @@
+ 2xmlX	hr..settings/org.eclipse.wst.common.component.xml

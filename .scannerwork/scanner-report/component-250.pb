@@ -1,0 +1,1 @@
+ú 2javaXKhr6src/main/java/com/java/beans/DeclarationRecherche.java
